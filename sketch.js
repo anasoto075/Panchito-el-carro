@@ -10,7 +10,7 @@ var score = 0;
 var cloudsGroup;
 
 function preload(){
-groundImg = loadImage("track (1).png");
+groundImg = loadImage("track1.png");
 panchitoImg = loadImage("panchito.png");
 cloudImage = loadImage("walk-person-png.png")
 }
